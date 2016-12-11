@@ -7,6 +7,7 @@
 // @icon         http://static0.everfilter.me/e3570ac87e047eace9ce1b265b197797.png
 // @copyright    2016+, Baka
 // @match        http://everfilter.me/
+// @match        https://everfilter.me/s/*/*/*?r=jp&lang=en-us
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js
 // @grant        none
 // ==/UserScript==
