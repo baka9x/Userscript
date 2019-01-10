@@ -8,7 +8,7 @@
 // @copyright    2016+, Baka
 // @match        http://everfilter.me/
 // @match        https://everfilter.me/s/*/*/*?r=jp&lang=en-us
-// @require  http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js
+// @require      http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js
 // @grant        none
 // ==/UserScript==
 
